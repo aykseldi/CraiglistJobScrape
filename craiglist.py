@@ -37,7 +37,6 @@ response = get('https://newjersey.craigslist.org/search/jjj')
 
 subject = 'Craiglist delivery job posting email.'
 sender_address = 'easynapkin@gmail.com'
-# sender_pass = 'Vab_2020#*'
 receiver_address = 'johnuzunkopru@gmail.com'
 
 
