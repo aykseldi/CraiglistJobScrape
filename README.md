@@ -11,3 +11,5 @@
 8. Sets gmail service up and makes connection.
 9. Sends email with matching findings in its body part. 
 
+Normally this code should be called from crontab entry on a pc working all the day. Since I do not have pc all day running, I found a side solution with rtcwake package which comes with most linux distributions. RTCWAKE  makes a system sleep state until specified wakeup time, so I will make a hourly crontab entry which runs the python code then invokes rtcwake for to sleep 1 hour. This circular process goes on all through day or you can fix it to just work on nights. 
+
