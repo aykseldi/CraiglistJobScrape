@@ -1,5 +1,8 @@
-# CraiglistJobScrape
-**Step by step what code makes...
+# Welcome to Craiglist Job Scrape Automation with Google Gmail Integration
+
+
+**Step by step what code makes**
+
 1. It is written for scraping job postings of craiglist. 
 2. First it gets the web page of wanted craiglist page and parses its html. Then looks for job title, post date and links.
 3. Finds matching job titles with the string set. 
