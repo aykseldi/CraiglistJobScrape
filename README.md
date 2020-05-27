@@ -27,7 +27,7 @@
 *  Sets gmail service up and makes connection.
 * Sends email with matching findings in its body part. 
 
- Email sent via this project (https://github.com/aykseldi/CraiglistJobScrape/blob/master/Email.png)
+ ![Email sent via this project](https://github.com/aykseldi/CraiglistJobScrape/blob/master/Email.png)
 
 ```bash
 Normally this code should be called from crontab entry on a pc working all the day. 
