@@ -1,4 +1,4 @@
-# Welcome to Craiglist Job Scrape Automation with Google Gmail Integration
+# WELCOME TO CRAIGLIST JOB SCRAPE AUTOMATION WITH Google Gmail Integration
 
 > This project is intended to build an automation pipeline for anything posted in Craiglist and alerting people through sending email with gmail. 
 
